@@ -1,6 +1,6 @@
 # In Sync: Simple Non-humanoid Robot Prototype
 
-Repository for the article "In Sync: Exploring Synchronization to Increase Trust Between Humans and Non-humanoid Robots" contains the prototype's technical documentation, mechanical parts 3D models for printing, electronic schematics, software source code, and a complete list of required components from external vendors.
+The repository for the article [“In Sync: Exploring Synchronization to Increase Trust Between Humans and Non-humanoid Robots”](https://dl.acm.org/doi/10.1145/3544548.3581193) contains the prototype's technical documentation, mechanical parts 3D models for printing, electronic schematics, software source code, and a complete list of required components from external vendors.
 
 ## Source code
 
