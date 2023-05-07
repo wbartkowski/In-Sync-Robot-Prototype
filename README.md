@@ -1,4 +1,4 @@
-[Prototype image](prototype.png)
+![Prototype image](prototype.png)
 
 # In Sync: Simple Non-humanoid Robot Prototype
 
